@@ -25,3 +25,7 @@ A Python automation tool to scrape high-resolution image URLs from Unsplash. Use
 
 ## Credits & Ethical Use
 This project interacts with [Unsplash](https://unsplash.com), which provides open-use images under their [license](https://unsplash.com/license). Use responsibly and cite sources when required.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
